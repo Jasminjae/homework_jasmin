@@ -1,0 +1,31 @@
+h1 {
+	color:lightblue;
+	font-family:georgia;
+	background-color:grey;
+}
+
+p.right {
+	font-family:tahoma;
+	font-size:75%;
+	position:absolute;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
